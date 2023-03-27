@@ -1,0 +1,18 @@
+{
+  "name": "jim3-filemetadata",
+  "version": "1.0.0",
+  "description": "Build a full stack JavaScript app that is functionally similar to this: https://file-metadata-microservice.freecodecamp.rocks.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
